@@ -16,19 +16,19 @@ As a Full Stack PHP Developer, I bring a wealth of experience in crafting dynami
 - **Backend:** PHP, Python
 - **Database:** MySQL, PostgreSQL
 - **Framework:** Laravel, CodeIgniter, WP plugin developer
-- **DevOps:** CentOS server administration, CI/CD (git to cPnael, flexPanel)
+- **DevOps:** CentOS server, CI/CD (git to cPnael, flexPanel), git
 - **API Development:** REST/SOAP API development, 3rd party API integration, openAI chatbot development, Assistant management
 
 ---
 
 ### 🚀 Featured Projects
 
-- [SyncTension](https://github.com/rejoan/SyncTension) – Advanced PHP/Laravel project for efficient data sync
-- [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution
-- [RosettaStone Apps](https://rosettastone-apps.jp/library/#/login) – Web app library for language learning
-- [chatGPT Assistant](https://sandbox9.marketmainframe.dev) - AI chatBOT & large file analyzer
-- [Clinic Management System](https://rovertech.com.hk/en/project/ucmg) - Professional digital solution capable of meeting the diverse needs of all users, including staff, doctors, nurses, and patients
-- [VOIP Billing System](https://webcoachbd.com/tech) - VOIP billing admin panel
+- [SyncTension](https://github.com/rejoan/SyncTension) – Chrome extension for efficient data sync (JS)
+- [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution (WP CPT plugin API)
+- [RosettaStone Apps](https://rosettastone-apps.jp/library/#/login) – Web app library for language learning (Laravel VueJS)
+- [chatGPT Assistant](https://sandbox9.marketmainframe.dev) - AI chatBOT & large file analyzer (openAI chatGPT)
+- [Clinic Management System](https://rovertech.com.hk/en/project/ucmg) - Professional solution capable of meeting the diverse needs of all users, including staff, doctors, nurses, and patients (Laravel Livewire)
+- [VOIP Billing System](https://webcoachbd.com/tech) - VOIP billing admin panel (Codeigniter)
 
 ---
 
