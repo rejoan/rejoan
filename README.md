@@ -1,4 +1,4 @@
-# This is Rejoanul Alam 👋
+# Rejoanul Alam 👋
 
 **Full Stack PHP Developer | Zend Certified PHP Engineer**
 
