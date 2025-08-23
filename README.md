@@ -1,6 +1,6 @@
 # This is Rejoanul Alam 👋
 
-**Senior Software Engineer | Full Stack PHP Developer**
+**Full Stack PHP Developer | Zend Certified PHP Engineer**
 
 ---
 
@@ -14,7 +14,7 @@ As a Full Stack PHP Developer, I bring a wealth of experience in crafting dynami
 
 - **Frontend:** HTML, CSS, JavaScript, jQuery, VueJS, ES6
 - **Backend:** PHP, Python
-- **Database:** MySQL, PostGreSQL
+- **Database:** MySQL, PostgreSQL
 - **Framework:** Laravel, CodeIgniter, WP plugin developer
 - **DevOps:** CentOS server administration, CI/CD (git to cPnael, flexPanel)
 - **API Development:** REST/SOAP API development, 3rd party API integration, openAI chatbot development, Assistant management
@@ -27,6 +27,8 @@ As a Full Stack PHP Developer, I bring a wealth of experience in crafting dynami
 - [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution
 - [RosettaStone Apps](https://rosettastone-apps.jp/library/#/login) – Web app library for language learning
 - [chatGPT Assistant](https://sandbox9.marketmainframe.dev) - AI chatBOT & large file analyzer
+- [Clinic Management System](https://rovertech.com.hk/en/project/ucmg) - Professional digital solution capable of meeting the diverse needs of all users, including staff, doctors, nurses, and patients
+- [VOIP Billing System](https://webcoachbd.com/tech) - VOIP billing admin panel
 
 ---
 
