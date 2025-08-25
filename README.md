@@ -1,12 +1,12 @@
 # Rejoanul Alam 👋
 
-**Full Stack PHP Developer | Zend Certified PHP Engineer**
+**Full Stack Developer | Zend Certified PHP Engineer**
 
 ---
 
 ### 👨‍💻 About Me
 
-As a Full Stack PHP Developer, I bring a wealth of experience in crafting dynamic and robust web applications. My expertise spans creating efficient, scalable code for everything from small business websites to complex enterprise systems.
+As a Full Stack Developer, I bring a wealth of experience in crafting dynamic and robust web applications. My expertise spans creating efficient, scalable code for everything from small business websites to complex enterprise systems.
 
 ---
 
