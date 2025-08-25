@@ -35,6 +35,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 ### 📚 Academic Background
 
 `Kurigram Zilla School` -> `Jahangirnagar University` -> `BUET`
+
 ---
 
 ### 🥅 Professional Experience
