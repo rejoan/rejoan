@@ -38,10 +38,16 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ---
 
+### 📚 Professional Experience
+
+- Spinytel Ltd -> ICT EURO Ltd -> BJIT Ltd -> Upwork
+
+---
+
 ### 🌐 Find Me Online
 
 - **GitHub:** [@rejoan](https://github.com/rejoan)
 - **Stack Overflow:** [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)
-- **Linkedin:** [Rejoanul ALam](https://bd.linkedin.com/in/rejoanulalam)
+- **Linkedin:** [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
 
 ---
