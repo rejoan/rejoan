@@ -38,9 +38,11 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ---
 
-### 📚 Professional Experience
+### 🥅 Professional Experience
 
-- Spinytel Ltd -> ICT EURO Ltd -> BJIT Ltd -> Upwork
+```
+Spinytel Ltd -> ICT EURO Ltd -> BJIT Ltd -> Upwork
+```
 
 ---
 
