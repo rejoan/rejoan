@@ -1,4 +1,4 @@
-# REJOANUL ALAM
+## REJOANUL ALAM
 **Full Stack Developer | Zend Certified PHP Engineer**
 
 
@@ -52,8 +52,8 @@ Upwork (2020-2025)
 
 ### 🌐 Find Me Online
 
-- **GitHub:** [@rejoan](https://github.com/rejoan)
-- **Stack Overflow:** [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)
-- **Linkedin:** [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
+- GitHub: [@rejoan](https://github.com/rejoan)
+- StackOverflow: [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)
+- Linkedin: [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
 
 ---
