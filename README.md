@@ -1,7 +1,6 @@
 ## REJOANUL ALAM
 > Full Stack Developer | Zend Certified PHP Engineer
 
----
 
 ### 👨‍💻 About Me
 
