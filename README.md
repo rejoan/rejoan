@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-As a Full Stack Developer, I bring a wealth of experience in crafting dynamic and robust web applications. My expertise spans creating efficient, scalable code for everything from small business websites to complex enterprise systems.
+As a Full Stack Developer, I bring a wealth of experience in crafting dynamic and robust web applications.
 
 ---
 
