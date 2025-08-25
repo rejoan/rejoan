@@ -34,14 +34,15 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 📚 Academic Background
 
-- Kurigram Zilla School -> Jahangirnagar University -> BUET
-
+```
+Kurigram Zilla School -> Jahangirnagar University -> BUET
+```
 ---
 
 ### 🥅 Professional Experience
 
 ```
-Spinytel Ltd -> ICT EURO Ltd -> BJIT Ltd -> Upwork
+ICT EURO Ltd -> BJIT Ltd -> Upwork -> PrismtecHub
 ```
 
 ---
