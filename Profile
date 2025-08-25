@@ -34,14 +34,20 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 📚 Academic Background
 
-`Kurigram Zilla School` -> `Jahangirnagar University` -> `BUET`
-
+```
+Kurigram Zilla School
+Jahangirnagar University
+BUET
+```
 ---
 
 ### 🥅 Professional Experience
 
 ```
-ICT EURO Ltd -> BJIT Ltd -> Upwork -> PrismtecHub
+PrismTecHub (2011-2015)
+ICT EURO Ltd (2016-2017)
+BJIT Ltd (2017-2020)
+Upwork (2020-2025)
 ```
 
 ---
