@@ -1,3 +1,4 @@
+{::options auto_ids="false" /}
 ## REJOANUL ALAM
 **Full Stack Developer | Zend Certified PHP Engineer**
 
