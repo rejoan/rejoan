@@ -10,12 +10,12 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 🛠️ Skills & Technologies
 
-- **Frontend:** HTML, CSS, JavaScript, jQuery, VueJS, ES6
-- **Backend:** PHP, Python
-- **Database:** MySQL, PostgreSQL
-- **Framework:** Laravel, CodeIgniter, WP plugin developer
-- **DevOps:** CentOS server, CI/CD (git to cPnael, flexPanel), git
-- **API Development:** REST/SOAP API development, 3rd party API integration, openAI chatbot development, Assistant management
+🟠 **Frontend:** HTML, CSS, JavaScript, jQuery, VueJS, ES6
+🟠 **Backend:** PHP, Python
+🟠 **Database:** MySQL, PostgreSQL
+🟠 **Framework:** Laravel, CodeIgniter, WP plugin developer
+🟠 **DevOps:** CentOS server, CI/CD (git to cPnael, flexPanel), git
+🟠 **API Development:** REST/SOAP API development, 3rd party API integration, openAI chatbot development, Assistant management
 
 ---
 
