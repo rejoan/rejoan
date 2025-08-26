@@ -57,8 +57,8 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 🌐 Find Me Online
 
-🟢 GitHub: [@rejoan](https://github.com/rejoan)
-🟢 StackOverflow: [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)
-🟢 Linkedin: [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
+<img src="https://skillicons.dev/icons?i=git" /> GitHub: [@rejoan](https://github.com/rejoan)\
+<img src="https://skillicons.dev/icons?i=stackoverflow" /> StackOverflow: [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)\
+<img src="https://skillicons.dev/icons?i=linkedin" /> Linkedin: [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
 
 ---
