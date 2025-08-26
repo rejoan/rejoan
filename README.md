@@ -33,9 +33,9 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 ### 📚 Academic Background
 
 ```
-`#45693B` Kurigram Zilla School
-`#45693B` Jahangirnagar University
-`#45693B` BUET
+Kurigram Zilla School
+Jahangirnagar University
+BUET
 ```
 ---
 
@@ -52,8 +52,8 @@ Upwork (2020-2025)
 
 ### 🌐 Find Me Online
 
-- GitHub: [@rejoan](https://github.com/rejoan)
-- StackOverflow: [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)
-- Linkedin: [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
+`#45693B` GitHub: [@rejoan](https://github.com/rejoan)
+`#45693B` StackOverflow: [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)
+`#45693B` Linkedin: [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
 
 ---
