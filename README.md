@@ -21,17 +21,17 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 🚀 Featured Projects
 
-⭕ [SyncTension](https://github.com/rejoan/SyncTension) – Chrome extension for efficient data sync (JS)\
+✅ [SyncTension](https://github.com/rejoan/SyncTension) – Chrome extension for efficient data sync (JS)\
 
-⭕ [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution (WP CPT plugin API)\
+✅ [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution (WP CPT plugin API)\
 
-⭕ [RosettaStone Apps](https://rosettastone-apps.jp/library/#/login) – Web app library for language learning (Laravel VueJS)\
+✅ [RosettaStone Apps](https://rosettastone-apps.jp/library/#/login) – Web app library for language learning (Laravel VueJS)\
 
-⭕ [chatGPT Assistant](https://sandbox9.marketmainframe.dev) - AI chatBOT & large file analyzer (openAI chatGPT)\
+✅ [chatGPT Assistant](https://sandbox9.marketmainframe.dev) - AI chatBOT & large file analyzer (openAI chatGPT)\
 
-⭕ [Clinic Management System](https://rovertech.com.hk/en/project/ucmg) - Professional solution capable of meeting the diverse needs of all users, including staff, doctors, nurses, and patients (Laravel Livewire)\
+✅ [Clinic Management System](https://rovertech.com.hk/en/project/ucmg) - Professional solution capable of meeting the diverse needs of all users, including staff, doctors, nurses, and patients (Laravel Livewire)\
 
-⭕ [VOIP Billing System](https://webcoachbd.com/tech) - VOIP billing admin panel (Codeigniter)
+✅ [VOIP Billing System](https://webcoachbd.com/tech) - VOIP billing admin panel (Codeigniter)
 
 ---
 
