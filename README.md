@@ -52,8 +52,8 @@ Upwork (2020-2025)
 
 ### 🌐 Find Me Online
 
-`#45693B` GitHub: [@rejoan](https://github.com/rejoan)
-`#45693B` StackOverflow: [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam)
-`#45693B` Linkedin: [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam)
+GitHub: [@rejoan](https://github.com/rejoan) `#45693B`
+StackOverflow: [Rejoanul Alam](https://stackoverflow.com/users/1256909/rejoanul-alam) `#45693B`
+Linkedin: [Rejoanul Alam](https://bd.linkedin.com/in/rejoanulalam) `#45693B`
 
 ---
