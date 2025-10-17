@@ -1,4 +1,4 @@
-## 🧊 REJOANUL ALAM 🧊
+## REJOANUL ALAM
 **🟤 Full Stack Developer | Zend Certified PHP Engineer**
 
 
@@ -16,9 +16,9 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 🟠 **Database:** MySQL, PostgreSQL
 
-🟠 **Framework:** Laravel, CodeIgniter, WP plugin developer
+🟠 **Framework:** Laravel, CodeIgniter, WP plugin
 
-🟠 **DevOps:** CentOS server, CI/CD (git to cPnael, flexPanel), git
+🟠 **DevOps:** CentOS server, CI/CD (git to cPnael, flexPanel), git (merge, squash, resolve conflict etc)
 
 🟠 **API Development:** REST/SOAP API development, 3rd party API integration, openAI chatbot development, Assistant management
 
