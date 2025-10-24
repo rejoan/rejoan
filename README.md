@@ -30,7 +30,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ✅ [SyncTension](https://github.com/rejoan/SyncTension) – Chrome extension for efficient data sync (JS)
 
-✅ [Order System](https://github.com/rejoan/theenCommerce) - Architechtural Project (Laravel)
+✅ [Order System](https://github.com/rejoan/theenCommerce) - Architectural Project (Laravel)
 
 ✅ [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution (WP CPT plugin API)
 
