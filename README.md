@@ -10,7 +10,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 🛠️ Skills & Technologies
 
-🟠 **Frontend:** HTML, CSS, JavaScript, jQuery, VueJS, ES6
+🟠 **Frontend:** HTML, CSS, JavaScript, jQuery, VueJS, ES6, ReactJS
 
 🟠 **Backend:** PHP, Python
 
@@ -18,9 +18,11 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 🟠 **Framework:** Laravel, CodeIgniter, WP plugin
 
-🟠 **DevOps:** CentOS server, CI/CD (git to cPnael, flexPanel), git (merge, squash, resolve conflict etc)
+🟠 **DevOps:** CentOS server, CI/CD (git to cPnael, flexPanel), git (merge, squash, resolve conflict etc), WHM
 
-🟠 **API Development:** REST/SOAP API development, 3rd party API integration, openAI chatbot development, Assistant management
+🟠 **API Development:** REST/SOAP API development, 3rd party integration, chatbot development, Assistant management
+
+🟠 **Domain Familiarity:** OTA b2b solution, VOIP billing, E-Commerce
 
 ---
 
@@ -28,11 +30,13 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ✅ [SyncTension](https://github.com/rejoan/SyncTension) – Chrome extension for efficient data sync (JS)
 
+✅ [Order System](https://github.com/rejoan/theenCommerce) - Architechtural Project (Laravel)
+
 ✅ [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution (WP CPT plugin API)
 
 ✅ [RosettaStone Apps](https://rosettastone-apps.jp/library/#/login) – Web app library for language learning (Laravel VueJS)
 
-✅ [chatGPT Assistant](https://sandbox9.marketmainframe.dev) - AI chatBOT & large file analyzer (openAI chatGPT)
+✅ [chatGPT Assistant](https://sandbox9.marketmainframe.dev) - AI chatBOT & large file analyzer (chatGPT)
 
 ✅ [Clinic Management System](https://rovertech.com.hk/en/project/ucmg) - Professional solution capable of meeting the diverse needs of all users, including staff, doctors, nurses, and patients (Laravel Livewire)
 
