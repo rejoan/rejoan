@@ -10,17 +10,17 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 🛠️ Skills & Technologies
 
-🟠 **Frontend:** HTML, CSS, JavaScript, jQuery, VueJS, NextJS, ReactJS
+🟠 **Frontend:** HTML, CSS, JavaScript, VueJS, NextJS, ReactJS
 
 🟠 **Backend:** PHP, Python
 
-🟠 **Database:** MySQL, PostgreSQL
+🟠 **Database:** MySQL, PostgreSQL, SQL Server
 
 🟠 **Framework:** Laravel, CodeIgniter, WP plugin
 
-🟠 **DevOps:** CentOS server, CI/CD, git, WHM
+🟠 **DevOps:** CentOS server, CI/CD, GIT, WHM
 
-🟠 **API Development:** REST/SOAP API development, 3rd party integration, chatbot development, Assistant management
+🟠 **API:** REST/SOAP API development, 3rd party integration, chatbot development, AI code generation & debug
 
 🟠 **Domain Familiarity:** OTA b2b solution, VOIP billing, E-Commerce, Directus
 
@@ -32,7 +32,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ✅ [Order System](https://github.com/rejoan/theenCommerce) - Architectural Project (Laravel)
 
-✅ [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution (WP CPT plugin API)
+✅ [syncEvents](https://github.com/rejoan/syncEvents) – Event synchronization solution (WP plugin)
 
 ✅ [RosettaStone Apps](https://rosettastone-apps.jp/library/#/login) – Web app library for language learning (Laravel VueJS)
 
