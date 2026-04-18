@@ -10,7 +10,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 🛠️ Skills & Technologies
 
-🟠 **Frontend:** HTML, CSS, JavaScript, VueJS, NextJS, ReactJS
+🟠 **Frontend:** HTML, CSS, JS, VueJS, NextJS, ReactJS
 
 🟠 **Backend:** PHP, Python
 
@@ -18,11 +18,11 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 🟠 **Framework:** Laravel, CodeIgniter, WP plugin
 
-🟠 **DevOps:** CentOS server, CI/CD, GIT, WHM
+🟠 **DevOps:** CentOS server, CI/CD, GIT, WHM, Docker
 
-🟠 **API:** REST/SOAP API development, 3rd party integration, chatbot development, AI code generation & debug
+🟠 **API:** REST/SOAP API development, 3rd party integration
 
-🟠 **Domain Familiarity:** OTA b2b solution, VOIP billing, E-Commerce, Directus
+🟠 **AI:** AI integration, chatbot development, code generation & debug
 
 ---
 
