@@ -10,7 +10,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 ### 🛠️ Skills & Technologies
 
-🟠 **Frontend:** HTML, CSS, JS, VueJS, NextJS, ReactJS
+🟠 **Frontend:** HTML, CSS, JS, VueJS, NextJS, ReactJS, Chrome Extension
 
 🟠 **Backend:** PHP, Python
 
