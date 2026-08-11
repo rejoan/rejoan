@@ -22,7 +22,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 🟠 **API:** REST/SOAP API development, 3rd party integration
 
-🟠 **AI:** Calude pro, chatGPT plus, AI integration, chatbot development, code generation & debug
+🟠 **AI:** Claude pro, chatGPT plus, AI integration, chatbot development, code generation & debug
 
 ---
 
