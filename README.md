@@ -1,5 +1,5 @@
 ## REJOANUL ALAM
-**🟤 Full Stack Developer | Zend Certified PHP Engineer**
+**🟤 AI-Augmented Full-Stack Developer | Zend Certified PHP Engineer**
 
 
 ### 👨‍💻 About Me
@@ -18,11 +18,11 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 
 🟠 **Framework:** Laravel, CodeIgniter, WP plugin
 
-🟠 **DevOps:** CentOS server, CI/CD, GIT, WHM, Docker
+🟠 **DevOps:** CentOS, Ubuntu 26, nginx, PM2, CI/CD, GIT, WHM, Docker
 
 🟠 **API:** REST/SOAP API development, 3rd party integration
 
-🟠 **AI:** AI integration, chatbot development, code generation & debug
+🟠 **AI:** Calude pro, chatGPT plus, AI integration, chatbot development, code generation & debug
 
 ---
 
@@ -59,7 +59,7 @@ As a Full Stack Developer, I bring a wealth of experience in crafting dynamic an
 🔵 PrismTecHub (2011-2015)
 🔵 ICT EURO Ltd (2016-2017)
 🔵 BJIT Ltd (2017-2020)
-🔵 Upwork (2020-2025)
+🔵 Upwork (2020-2026)
 ```
 
 ---
