@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-As a Full Stack Developer, I bring a wealth of experience in crafting dynamic and robust web applications.
+I build, rescue and modernize production systems using AI-assisted engineering.
 
 ---
 
