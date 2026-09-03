@@ -10,13 +10,13 @@ I build, rescue and modernize production systems using AI-assisted engineering.
 
 ### 🛠️ Skills & Technologies
 
-🟠 **Frontend:** HTML, CSS, JS, VueJS, NextJS, ReactJS, Chrome Extension
+🟠 **Frontend:** HTML, CSS, JS, VueJS, NextJS, Chrome Extension
 
 🟠 **Backend:** PHP, Python
 
 🟠 **Database:** MySQL, PostgreSQL, SQL Server
 
-🟠 **Framework:** Laravel, CodeIgniter, WP plugin
+🟠 **Framework:** Laravel, CodeIgniter, Django, WP plugin
 
 🟠 **DevOps:** CentOS, Ubuntu 26, nginx, PM2, CI/CD, GIT, WHM, Docker
 
@@ -59,7 +59,7 @@ I build, rescue and modernize production systems using AI-assisted engineering.
 🔵 PrismTecHub (2011-2015)
 🔵 ICT EURO Ltd (2016-2017)
 🔵 BJIT Ltd (2017-2020)
-🔵 Upwork (2020-2026)
+🔵 Remote (2021-2026)
 ```
 
 ---
