@@ -22,7 +22,7 @@ I build, rescue and modernize production systems using AI-assisted engineering.
 
 🟠 **API:** REST/SOAP API development, 3rd party integration
 
-🟠 **AI:** Claude pro, chatGPT plus, AI integration, chatbot development, code generation & debug
+🟠 **AI:** Claude, chatGPT, LLM Integration(Qwen 3 via Ollama/Self-hosted), chatbot development, code generation & debug
 
 ---
 
